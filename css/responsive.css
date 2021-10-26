@@ -118,4 +118,10 @@
     .main-img-h1{
         font-size: 18px;
     }
+    .footerul{
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+    }
 }
